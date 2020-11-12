@@ -3,6 +3,7 @@
 
 1. [Sign up](https://www.contentful.com/sign-up/) for Contentful
 2. Adding me as a collaborator:
+
   a. Click on the menu in the top left, then "Organization settings & subscriptions"
   
   ![header](./images/header.PNG)
